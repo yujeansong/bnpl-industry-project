@@ -1,0 +1,1 @@
+# bnpl-industry-project
